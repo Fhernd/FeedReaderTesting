@@ -5,16 +5,10 @@ A web-based application that reads RSS feeds. The original developer of this app
 
 ## How to Run
 
-Just open the `index.html` in your favorite browser. The test results are shown in the 
-
-_Note_: A test drive is available at the end of this readme.
+Download or clone  this respository, uncompress, and then open the `index.html` in your favorite browser. The test results are shown in the bottom of the page.
 
 ## Dependencies
 * Jasmine
 * jQuery
 * Handlebars
 * Boot
-
-## Test Drive
-
-[https://fhernd.github.io/FeedReaderTesting](https://fhernd.github.io/FeedReaderTesting/)
